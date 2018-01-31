@@ -16,7 +16,7 @@ gradlew.bat
 # Log Files
 *.log
 
-*/target/
+target/
 
 .settings
 .classpath
